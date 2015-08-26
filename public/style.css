@@ -1,0 +1,14 @@
+.spinner-enter {
+  opacity: 0.01;
+  transition: opacity .5s ease-in;
+}
+.spinner-enter.spinner-enter-active {
+  opacity: 1;
+}
+.spinner-leave {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+.spinner-leave.spinner-leave-active {
+  opacity: 0.01;
+}
