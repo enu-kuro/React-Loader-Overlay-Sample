@@ -1,5 +1,6 @@
 # React-Loader-Overlay-Sample
 Overlay spinner sample using react-loader.
+[Live demo](http://enu-kuro.github.io/React-Loader-Overlay-Sample/index.html)
 
 #Built with
 * react-loader
